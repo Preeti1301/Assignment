@@ -1,0 +1,11 @@
+
+public class Anagram {
+
+	public static void main(String[] args) {
+		String str1="anna";
+		String str2 = "nana";
+		
+
+	}
+
+}

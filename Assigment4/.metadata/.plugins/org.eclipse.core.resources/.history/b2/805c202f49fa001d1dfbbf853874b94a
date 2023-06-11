@@ -1,0 +1,10 @@
+//WAP to count the number of consonants, vowels, special characters in a String.
+public class CountVowelConsonantsSpecialCharsInString {
+
+	public static void main(String[] args) {
+		String str = "Finding consonants, vowels, special characters";
+		
+
+	}
+
+}

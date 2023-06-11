@@ -1,0 +1,10 @@
+//WAP to find the maximum occurring character in a String.
+
+public class FindMaximumOccurringCharacterInString {
+
+	public static void main(String[] args) {
+		
+
+	}
+
+}

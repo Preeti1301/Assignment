@@ -1,0 +1,19 @@
+
+public class PlaindromeOrNot {
+
+	public static void main(String[] args) {
+		String str ="Hello";
+		
+		//1st way
+		String reversedStr="";
+		for(int i =str.length();i<=0;i++) {
+			reversedStr +=str.charAt(i);
+		}
+		
+		if(reversedStr.equals(str)) {
+			System.out.println("Yes "+ str +" is palindrome");
+		}
+	}
+		
+
+}

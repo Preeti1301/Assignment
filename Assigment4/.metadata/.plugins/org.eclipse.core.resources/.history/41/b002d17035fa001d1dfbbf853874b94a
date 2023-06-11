@@ -1,0 +1,15 @@
+
+public class PlaindromeOrNot {
+
+	public static void main(String[] args) {
+		String str ="Hello";
+		
+		//1st way
+		String reversedStr=null;
+		for(int i =str.length();i<=0;i++) {
+			reversedStr +=str.charAt(i);
+		}
+	}
+		
+
+}
